@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "jest": "^30.0.5",
+    "joi": "^18.0.0",
+    "supertest": "^7.1.4"
+  }
+}
